@@ -11,4 +11,5 @@
 * [Java的基本数据类型及其分类？](https://github.com/raulfang/Android-Weekly-interview/issues/6) 
 * [Java同步机制有哪些，volatile和syncronized区别？](https://github.com/raulfang/Android-Weekly-interview/issues/7) 
 * [链表与散列表和数组有哪些区别？](https://github.com/raulfang/Android-Weekly-interview/issues/8) 
- 
+* [LinkedHashMap 的工作原理和使用场景 ](https://github.com/raulfang/Android-Weekly-interview/issues/9)  
+  
