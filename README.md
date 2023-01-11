@@ -13,5 +13,7 @@
 * [链表与散列表和数组有哪些区别？](https://github.com/raulfang/Android-Weekly-interview/issues/8) 
 * [LinkedHashMap 的工作原理和使用场景 ](https://github.com/raulfang/Android-Weekly-interview/issues/9) 
 * [谈谈对volatile的理解，及其应用 ](https://github.com/raulfang/Android-Weekly-interview/issues/10) 
+* [阐述一下transient、instanceof、final、static 的原理及用法。 ](https://github.com/raulfang/Android-Weekly-interview/issues/11) 
+
 
   
