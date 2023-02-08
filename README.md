@@ -15,7 +15,8 @@
 * [谈谈对volatile的理解，及其应用 ](https://github.com/raulfang/Android-Weekly-interview/issues/10) 
 * [阐述一下transient、instanceof、final、static 的原理及用法。 ](https://github.com/raulfang/Android-Weekly-interview/issues/11) 
 * [谈谈反射，注解的原理。 ](https://github.com/raulfang/Android-Weekly-interview/issues/12) 
-* [Java的四种引用，强弱软虚，用到的场景。 ](https://github.com/raulfang/Android-Weekly-interview/issues/14) 
+* [Java的四种引用，强弱软虚，用到的场景。 ](https://github.com/raulfang/Android-Weekly-interview/issues/13) 
+
 
 
 
