@@ -17,7 +17,7 @@
 * [谈谈反射，注解的原理。 ](https://github.com/raulfang/Android-Weekly-interview/issues/12) 
 * [Java的四种引用，强弱软虚，用到的场景。 ](https://github.com/raulfang/Android-Weekly-interview/issues/13) 
 * [Interface与abstract类的区别。 ](https://github.com/raulfang/Android-Weekly-interview/issues/15) 
-* [JVM内存管理机制。 ](https://github.com/raulfang/Android-Weekly-interview/issues/16) 
+* [JVM内存管理机制。 ](https://github.com/raulfang/Android-Weekly-interview/issues/16 ) 
 
  
 
