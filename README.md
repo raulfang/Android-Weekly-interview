@@ -20,6 +20,8 @@
 * [JVM内存管理机制。 ](https://github.com/raulfang/Android-Weekly-interview/issues/16 ) 
 
 #### Android基础
+* [Activity的启动流程。 ](https://github.com/raulfang/Android-Weekly-interview/issues/20 ) 
+
 
 
   
